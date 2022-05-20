@@ -1,0 +1,34 @@
+ul li{
+    width: 163px;
+    height: 29px;
+    left: 80px;
+    top: 243px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.12em;
+
+    color: #000000;
+}
+.container{
+    background: #EEEEEE;
+}
+p{
+    
+    width: 1059px;
+    height: 29px;
+    left: 110px;
+    top: 4715px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    letter-spacing: 0.12em;
+
+    color: #000000;
+}
